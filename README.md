@@ -1,4 +1,4 @@
 # Hello-world
 ## My First Respiratory
-## Hello Sugar Lab
+## Hello Sugar Labs
 
